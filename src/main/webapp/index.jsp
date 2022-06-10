@@ -8,5 +8,6 @@
 </head>
 <body>
 <jsp:forward page="home.do" />
+<h1>깃 풀 테스느!</h1>
 </body>
 </html>
